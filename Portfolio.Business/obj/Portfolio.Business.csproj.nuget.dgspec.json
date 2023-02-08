@@ -1,0 +1,124 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/beth/Documents/Astra Technologies/HD Supply/Portfolio Management/Portfolio/Portfolio.Business/Portfolio.Business.csproj": {}
+  },
+  "projects": {
+    "/Users/beth/Documents/Astra Technologies/HD Supply/Portfolio Management/Portfolio/Portfoilo.Data/Portfolio.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/beth/Documents/Astra Technologies/HD Supply/Portfolio Management/Portfolio/Portfoilo.Data/Portfolio.Data.csproj",
+        "projectName": "Portfoilo.Data",
+        "projectPath": "/Users/beth/Documents/Astra Technologies/HD Supply/Portfolio Management/Portfolio/Portfoilo.Data/Portfolio.Data.csproj",
+        "packagesPath": "/Users/beth/.nuget/packages/",
+        "outputPath": "/Users/beth/Documents/Astra Technologies/HD Supply/Portfolio Management/Portfolio/Portfoilo.Data/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/beth/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.102/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/beth/Documents/Astra Technologies/HD Supply/Portfolio Management/Portfolio/Portfolio.Business/Portfolio.Business.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/beth/Documents/Astra Technologies/HD Supply/Portfolio Management/Portfolio/Portfolio.Business/Portfolio.Business.csproj",
+        "projectName": "Portfolio.Business",
+        "projectPath": "/Users/beth/Documents/Astra Technologies/HD Supply/Portfolio Management/Portfolio/Portfolio.Business/Portfolio.Business.csproj",
+        "packagesPath": "/Users/beth/.nuget/packages/",
+        "outputPath": "/Users/beth/Documents/Astra Technologies/HD Supply/Portfolio Management/Portfolio/Portfolio.Business/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/beth/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/Users/beth/Documents/Astra Technologies/HD Supply/Portfolio Management/Portfolio/Portfoilo.Data/Portfolio.Data.csproj": {
+                "projectPath": "/Users/beth/Documents/Astra Technologies/HD Supply/Portfolio Management/Portfolio/Portfoilo.Data/Portfolio.Data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.102/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

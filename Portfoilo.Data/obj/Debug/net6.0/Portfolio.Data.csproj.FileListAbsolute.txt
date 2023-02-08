@@ -1,0 +1,24 @@
+/Users/beth/Documents/Astra Technologies/Portfolio/Portfoilo.Data/bin/Debug/net6.0/Portfoilo.Data.deps.json
+/Users/beth/Documents/Astra Technologies/Portfolio/Portfoilo.Data/bin/Debug/net6.0/Portfoilo.Data.dll
+/Users/beth/Documents/Astra Technologies/Portfolio/Portfoilo.Data/bin/Debug/net6.0/Portfoilo.Data.pdb
+/Users/beth/Documents/Astra Technologies/Portfolio/Portfoilo.Data/obj/Debug/net6.0/Portfolio.Data.csproj.AssemblyReference.cache
+/Users/beth/Documents/Astra Technologies/Portfolio/Portfoilo.Data/obj/Debug/net6.0/Portfolio.Data.GeneratedMSBuildEditorConfig.editorconfig
+/Users/beth/Documents/Astra Technologies/Portfolio/Portfoilo.Data/obj/Debug/net6.0/Portfolio.Data.AssemblyInfoInputs.cache
+/Users/beth/Documents/Astra Technologies/Portfolio/Portfoilo.Data/obj/Debug/net6.0/Portfolio.Data.AssemblyInfo.cs
+/Users/beth/Documents/Astra Technologies/Portfolio/Portfoilo.Data/obj/Debug/net6.0/Portfolio.Data.csproj.CoreCompileInputs.cache
+/Users/beth/Documents/Astra Technologies/Portfolio/Portfoilo.Data/obj/Debug/net6.0/Portfoilo.Data.dll
+/Users/beth/Documents/Astra Technologies/Portfolio/Portfoilo.Data/obj/Debug/net6.0/refint/Portfoilo.Data.dll
+/Users/beth/Documents/Astra Technologies/Portfolio/Portfoilo.Data/obj/Debug/net6.0/Portfoilo.Data.pdb
+/Users/beth/Documents/Astra Technologies/Portfolio/Portfoilo.Data/obj/Debug/net6.0/ref/Portfoilo.Data.dll
+/Users/beth/Documents/Astra Technologies/HD Supply/Portfolio Management/Portfolio/Portfoilo.Data/bin/Debug/net6.0/Portfoilo.Data.deps.json
+/Users/beth/Documents/Astra Technologies/HD Supply/Portfolio Management/Portfolio/Portfoilo.Data/bin/Debug/net6.0/Portfoilo.Data.dll
+/Users/beth/Documents/Astra Technologies/HD Supply/Portfolio Management/Portfolio/Portfoilo.Data/bin/Debug/net6.0/Portfoilo.Data.pdb
+/Users/beth/Documents/Astra Technologies/HD Supply/Portfolio Management/Portfolio/Portfoilo.Data/obj/Debug/net6.0/Portfolio.Data.csproj.AssemblyReference.cache
+/Users/beth/Documents/Astra Technologies/HD Supply/Portfolio Management/Portfolio/Portfoilo.Data/obj/Debug/net6.0/Portfolio.Data.GeneratedMSBuildEditorConfig.editorconfig
+/Users/beth/Documents/Astra Technologies/HD Supply/Portfolio Management/Portfolio/Portfoilo.Data/obj/Debug/net6.0/Portfolio.Data.AssemblyInfoInputs.cache
+/Users/beth/Documents/Astra Technologies/HD Supply/Portfolio Management/Portfolio/Portfoilo.Data/obj/Debug/net6.0/Portfolio.Data.AssemblyInfo.cs
+/Users/beth/Documents/Astra Technologies/HD Supply/Portfolio Management/Portfolio/Portfoilo.Data/obj/Debug/net6.0/Portfolio.Data.csproj.CoreCompileInputs.cache
+/Users/beth/Documents/Astra Technologies/HD Supply/Portfolio Management/Portfolio/Portfoilo.Data/obj/Debug/net6.0/Portfoilo.Data.dll
+/Users/beth/Documents/Astra Technologies/HD Supply/Portfolio Management/Portfolio/Portfoilo.Data/obj/Debug/net6.0/refint/Portfoilo.Data.dll
+/Users/beth/Documents/Astra Technologies/HD Supply/Portfolio Management/Portfolio/Portfoilo.Data/obj/Debug/net6.0/Portfoilo.Data.pdb
+/Users/beth/Documents/Astra Technologies/HD Supply/Portfolio Management/Portfolio/Portfoilo.Data/obj/Debug/net6.0/ref/Portfoilo.Data.dll

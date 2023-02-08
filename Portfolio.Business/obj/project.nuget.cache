@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "hdKMgzXCq+5K/W2BAvPXz9Cm/19LWop/VCppekqlA0zmhr/BGXV8PLvHZ+gTSOdAqwdzMwdU1gEe5EnApiSsfg==",
+  "success": true,
+  "projectFilePath": "/Users/beth/Documents/Astra Technologies/HD Supply/Portfolio Management/Portfolio/Portfolio.Business/Portfolio.Business.csproj",
+  "expectedPackageFiles": [
+    "/Users/beth/.nuget/packages/newtonsoft.json/13.0.2/newtonsoft.json.13.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

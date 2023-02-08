@@ -1,0 +1,116 @@
+C:/Users/Reventh/source/repos/Portfolio/Portfolio/bin/Debug/net6.0/appsettings.Development.json
+C:/Users/Reventh/source/repos/Portfolio/Portfolio/bin/Debug/net6.0/appsettings.json
+C:/Users/Reventh/source/repos/Portfolio/Portfolio/bin/Debug/net6.0/Portfolio.exe
+C:/Users/Reventh/source/repos/Portfolio/Portfolio/bin/Debug/net6.0/Portfolio.deps.json
+C:/Users/Reventh/source/repos/Portfolio/Portfolio/bin/Debug/net6.0/Portfolio.runtimeconfig.json
+C:/Users/Reventh/source/repos/Portfolio/Portfolio/bin/Debug/net6.0/Portfolio.dll
+C:/Users/Reventh/source/repos/Portfolio/Portfolio/bin/Debug/net6.0/Portfolio.pdb
+C:/Users/Reventh/source/repos/Portfolio/Portfolio/bin/Debug/net6.0/Microsoft.OpenApi.dll
+C:/Users/Reventh/source/repos/Portfolio/Portfolio/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+C:/Users/Reventh/source/repos/Portfolio/Portfolio/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+C:/Users/Reventh/source/repos/Portfolio/Portfolio/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+C:/Users/Reventh/source/repos/Portfolio/Portfolio/obj/Debug/net6.0/Portfolio.csproj.AssemblyReference.cache
+C:/Users/Reventh/source/repos/Portfolio/Portfolio/obj/Debug/net6.0/Portfolio.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Reventh/source/repos/Portfolio/Portfolio/obj/Debug/net6.0/Portfolio.AssemblyInfoInputs.cache
+C:/Users/Reventh/source/repos/Portfolio/Portfolio/obj/Debug/net6.0/Portfolio.AssemblyInfo.cs
+C:/Users/Reventh/source/repos/Portfolio/Portfolio/obj/Debug/net6.0/Portfolio.csproj.CoreCompileInputs.cache
+C:/Users/Reventh/source/repos/Portfolio/Portfolio/obj/Debug/net6.0/Portfolio.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/Reventh/source/repos/Portfolio/Portfolio/obj/Debug/net6.0/staticwebassets/msbuild.Portfolio.Microsoft.AspNetCore.StaticWebAssets.props
+C:/Users/Reventh/source/repos/Portfolio/Portfolio/obj/Debug/net6.0/staticwebassets/msbuild.build.Portfolio.props
+C:/Users/Reventh/source/repos/Portfolio/Portfolio/obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.Portfolio.props
+C:/Users/Reventh/source/repos/Portfolio/Portfolio/obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.Portfolio.props
+C:/Users/Reventh/source/repos/Portfolio/Portfolio/obj/Debug/net6.0/staticwebassets.pack.json
+C:/Users/Reventh/source/repos/Portfolio/Portfolio/obj/Debug/net6.0/staticwebassets.build.json
+C:/Users/Reventh/source/repos/Portfolio/Portfolio/obj/Debug/net6.0/staticwebassets.development.json
+C:/Users/Reventh/source/repos/Portfolio/Portfolio/obj/Debug/net6.0/scopedcss/bundle/Portfolio.styles.css
+C:/Users/Reventh/source/repos/Portfolio/Portfolio/obj/Debug/net6.0/Portfolio.csproj.CopyComplete
+C:/Users/Reventh/source/repos/Portfolio/Portfolio/obj/Debug/net6.0/Portfolio.dll
+C:/Users/Reventh/source/repos/Portfolio/Portfolio/obj/Debug/net6.0/refint/Portfolio.dll
+C:/Users/Reventh/source/repos/Portfolio/Portfolio/obj/Debug/net6.0/Portfolio.pdb
+C:/Users/Reventh/source/repos/Portfolio/Portfolio/obj/Debug/net6.0/Portfolio.genruntimeconfig.cache
+C:/Users/Reventh/source/repos/Portfolio/Portfolio/obj/Debug/net6.0/ref/Portfolio.dll
+C:/Users/Reventh/source/repos/Portfolio/Portfolio/bin/Debug/net6.0/System.Net.Http.Formatting.dll
+C:/Users/Reventh/source/repos/Portfolio/Portfolio/bin/Debug/net6.0/Newtonsoft.Json.dll
+C:/Users/Reventh/source/repos/Portfolio/Portfolio/bin/Debug/net6.0/Newtonsoft.Json.Bson.dll
+C:/Users/Reventh/source/repos/Portfolio/Portfolio/bin/Debug/net6.0/Portfoilo.Data.dll
+C:/Users/Reventh/source/repos/Portfolio/Portfolio/bin/Debug/net6.0/Portfolio.Business.dll
+C:/Users/Reventh/source/repos/Portfolio/Portfolio/bin/Debug/net6.0/Portfoilo.Data.pdb
+C:/Users/Reventh/source/repos/Portfolio/Portfolio/bin/Debug/net6.0/Portfolio.Business.pdb
+/Users/beth/Documents/Astra Technologies/Portfolio/Portfolio/bin/Debug/net6.0/appsettings.Development.json
+/Users/beth/Documents/Astra Technologies/Portfolio/Portfolio/bin/Debug/net6.0/appsettings.json
+/Users/beth/Documents/Astra Technologies/Portfolio/Portfolio/bin/Debug/net6.0/Portfolio
+/Users/beth/Documents/Astra Technologies/Portfolio/Portfolio/bin/Debug/net6.0/Portfolio.deps.json
+/Users/beth/Documents/Astra Technologies/Portfolio/Portfolio/bin/Debug/net6.0/Portfolio.runtimeconfig.json
+/Users/beth/Documents/Astra Technologies/Portfolio/Portfolio/bin/Debug/net6.0/Portfolio.dll
+/Users/beth/Documents/Astra Technologies/Portfolio/Portfolio/bin/Debug/net6.0/Portfolio.pdb
+/Users/beth/Documents/Astra Technologies/Portfolio/Portfolio/bin/Debug/net6.0/System.Net.Http.Formatting.dll
+/Users/beth/Documents/Astra Technologies/Portfolio/Portfolio/bin/Debug/net6.0/Microsoft.OpenApi.dll
+/Users/beth/Documents/Astra Technologies/Portfolio/Portfolio/bin/Debug/net6.0/Newtonsoft.Json.dll
+/Users/beth/Documents/Astra Technologies/Portfolio/Portfolio/bin/Debug/net6.0/Newtonsoft.Json.Bson.dll
+/Users/beth/Documents/Astra Technologies/Portfolio/Portfolio/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/beth/Documents/Astra Technologies/Portfolio/Portfolio/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/beth/Documents/Astra Technologies/Portfolio/Portfolio/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/beth/Documents/Astra Technologies/Portfolio/Portfolio/bin/Debug/net6.0/Portfoilo.Data.dll
+/Users/beth/Documents/Astra Technologies/Portfolio/Portfolio/bin/Debug/net6.0/Portfolio.Business.dll
+/Users/beth/Documents/Astra Technologies/Portfolio/Portfolio/bin/Debug/net6.0/Portfoilo.Data.pdb
+/Users/beth/Documents/Astra Technologies/Portfolio/Portfolio/bin/Debug/net6.0/Portfolio.Business.pdb
+/Users/beth/Documents/Astra Technologies/Portfolio/Portfolio/obj/Debug/net6.0/Portfolio.csproj.AssemblyReference.cache
+/Users/beth/Documents/Astra Technologies/Portfolio/Portfolio/obj/Debug/net6.0/Portfolio.GeneratedMSBuildEditorConfig.editorconfig
+/Users/beth/Documents/Astra Technologies/Portfolio/Portfolio/obj/Debug/net6.0/Portfolio.AssemblyInfoInputs.cache
+/Users/beth/Documents/Astra Technologies/Portfolio/Portfolio/obj/Debug/net6.0/Portfolio.AssemblyInfo.cs
+/Users/beth/Documents/Astra Technologies/Portfolio/Portfolio/obj/Debug/net6.0/Portfolio.csproj.CoreCompileInputs.cache
+/Users/beth/Documents/Astra Technologies/Portfolio/Portfolio/obj/Debug/net6.0/Portfolio.MvcApplicationPartsAssemblyInfo.cs
+/Users/beth/Documents/Astra Technologies/Portfolio/Portfolio/obj/Debug/net6.0/Portfolio.MvcApplicationPartsAssemblyInfo.cache
+/Users/beth/Documents/Astra Technologies/Portfolio/Portfolio/obj/Debug/net6.0/staticwebassets/msbuild.Portfolio.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/beth/Documents/Astra Technologies/Portfolio/Portfolio/obj/Debug/net6.0/staticwebassets/msbuild.build.Portfolio.props
+/Users/beth/Documents/Astra Technologies/Portfolio/Portfolio/obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.Portfolio.props
+/Users/beth/Documents/Astra Technologies/Portfolio/Portfolio/obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.Portfolio.props
+/Users/beth/Documents/Astra Technologies/Portfolio/Portfolio/obj/Debug/net6.0/staticwebassets.pack.json
+/Users/beth/Documents/Astra Technologies/Portfolio/Portfolio/obj/Debug/net6.0/staticwebassets.build.json
+/Users/beth/Documents/Astra Technologies/Portfolio/Portfolio/obj/Debug/net6.0/staticwebassets.development.json
+/Users/beth/Documents/Astra Technologies/Portfolio/Portfolio/obj/Debug/net6.0/scopedcss/bundle/Portfolio.styles.css
+/Users/beth/Documents/Astra Technologies/Portfolio/Portfolio/obj/Debug/net6.0/Portfolio.csproj.CopyComplete
+/Users/beth/Documents/Astra Technologies/Portfolio/Portfolio/obj/Debug/net6.0/Portfolio.dll
+/Users/beth/Documents/Astra Technologies/Portfolio/Portfolio/obj/Debug/net6.0/refint/Portfolio.dll
+/Users/beth/Documents/Astra Technologies/Portfolio/Portfolio/obj/Debug/net6.0/Portfolio.pdb
+/Users/beth/Documents/Astra Technologies/Portfolio/Portfolio/obj/Debug/net6.0/Portfolio.genruntimeconfig.cache
+/Users/beth/Documents/Astra Technologies/Portfolio/Portfolio/obj/Debug/net6.0/ref/Portfolio.dll
+/Users/beth/Documents/Astra Technologies/HD Supply/Portfolio Management/Portfolio/Portfolio/bin/Debug/net6.0/appsettings.Development.json
+/Users/beth/Documents/Astra Technologies/HD Supply/Portfolio Management/Portfolio/Portfolio/bin/Debug/net6.0/appsettings.json
+/Users/beth/Documents/Astra Technologies/HD Supply/Portfolio Management/Portfolio/Portfolio/bin/Debug/net6.0/Portfolio
+/Users/beth/Documents/Astra Technologies/HD Supply/Portfolio Management/Portfolio/Portfolio/bin/Debug/net6.0/Portfolio.deps.json
+/Users/beth/Documents/Astra Technologies/HD Supply/Portfolio Management/Portfolio/Portfolio/bin/Debug/net6.0/Portfolio.runtimeconfig.json
+/Users/beth/Documents/Astra Technologies/HD Supply/Portfolio Management/Portfolio/Portfolio/bin/Debug/net6.0/Portfolio.dll
+/Users/beth/Documents/Astra Technologies/HD Supply/Portfolio Management/Portfolio/Portfolio/bin/Debug/net6.0/Portfolio.pdb
+/Users/beth/Documents/Astra Technologies/HD Supply/Portfolio Management/Portfolio/Portfolio/bin/Debug/net6.0/System.Net.Http.Formatting.dll
+/Users/beth/Documents/Astra Technologies/HD Supply/Portfolio Management/Portfolio/Portfolio/bin/Debug/net6.0/Microsoft.OpenApi.dll
+/Users/beth/Documents/Astra Technologies/HD Supply/Portfolio Management/Portfolio/Portfolio/bin/Debug/net6.0/Newtonsoft.Json.dll
+/Users/beth/Documents/Astra Technologies/HD Supply/Portfolio Management/Portfolio/Portfolio/bin/Debug/net6.0/Newtonsoft.Json.Bson.dll
+/Users/beth/Documents/Astra Technologies/HD Supply/Portfolio Management/Portfolio/Portfolio/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/beth/Documents/Astra Technologies/HD Supply/Portfolio Management/Portfolio/Portfolio/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/beth/Documents/Astra Technologies/HD Supply/Portfolio Management/Portfolio/Portfolio/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/beth/Documents/Astra Technologies/HD Supply/Portfolio Management/Portfolio/Portfolio/bin/Debug/net6.0/Portfoilo.Data.dll
+/Users/beth/Documents/Astra Technologies/HD Supply/Portfolio Management/Portfolio/Portfolio/bin/Debug/net6.0/Portfolio.Business.dll
+/Users/beth/Documents/Astra Technologies/HD Supply/Portfolio Management/Portfolio/Portfolio/bin/Debug/net6.0/Portfoilo.Data.pdb
+/Users/beth/Documents/Astra Technologies/HD Supply/Portfolio Management/Portfolio/Portfolio/bin/Debug/net6.0/Portfolio.Business.pdb
+/Users/beth/Documents/Astra Technologies/HD Supply/Portfolio Management/Portfolio/Portfolio/obj/Debug/net6.0/Portfolio.csproj.AssemblyReference.cache
+/Users/beth/Documents/Astra Technologies/HD Supply/Portfolio Management/Portfolio/Portfolio/obj/Debug/net6.0/Portfolio.GeneratedMSBuildEditorConfig.editorconfig
+/Users/beth/Documents/Astra Technologies/HD Supply/Portfolio Management/Portfolio/Portfolio/obj/Debug/net6.0/Portfolio.AssemblyInfoInputs.cache
+/Users/beth/Documents/Astra Technologies/HD Supply/Portfolio Management/Portfolio/Portfolio/obj/Debug/net6.0/Portfolio.AssemblyInfo.cs
+/Users/beth/Documents/Astra Technologies/HD Supply/Portfolio Management/Portfolio/Portfolio/obj/Debug/net6.0/Portfolio.csproj.CoreCompileInputs.cache
+/Users/beth/Documents/Astra Technologies/HD Supply/Portfolio Management/Portfolio/Portfolio/obj/Debug/net6.0/Portfolio.MvcApplicationPartsAssemblyInfo.cs
+/Users/beth/Documents/Astra Technologies/HD Supply/Portfolio Management/Portfolio/Portfolio/obj/Debug/net6.0/Portfolio.MvcApplicationPartsAssemblyInfo.cache
+/Users/beth/Documents/Astra Technologies/HD Supply/Portfolio Management/Portfolio/Portfolio/obj/Debug/net6.0/staticwebassets/msbuild.Portfolio.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/beth/Documents/Astra Technologies/HD Supply/Portfolio Management/Portfolio/Portfolio/obj/Debug/net6.0/staticwebassets/msbuild.build.Portfolio.props
+/Users/beth/Documents/Astra Technologies/HD Supply/Portfolio Management/Portfolio/Portfolio/obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.Portfolio.props
+/Users/beth/Documents/Astra Technologies/HD Supply/Portfolio Management/Portfolio/Portfolio/obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.Portfolio.props
+/Users/beth/Documents/Astra Technologies/HD Supply/Portfolio Management/Portfolio/Portfolio/obj/Debug/net6.0/staticwebassets.pack.json
+/Users/beth/Documents/Astra Technologies/HD Supply/Portfolio Management/Portfolio/Portfolio/obj/Debug/net6.0/staticwebassets.build.json
+/Users/beth/Documents/Astra Technologies/HD Supply/Portfolio Management/Portfolio/Portfolio/obj/Debug/net6.0/staticwebassets.development.json
+/Users/beth/Documents/Astra Technologies/HD Supply/Portfolio Management/Portfolio/Portfolio/obj/Debug/net6.0/scopedcss/bundle/Portfolio.styles.css
+/Users/beth/Documents/Astra Technologies/HD Supply/Portfolio Management/Portfolio/Portfolio/obj/Debug/net6.0/Portfolio.csproj.CopyComplete
+/Users/beth/Documents/Astra Technologies/HD Supply/Portfolio Management/Portfolio/Portfolio/obj/Debug/net6.0/Portfolio.dll
+/Users/beth/Documents/Astra Technologies/HD Supply/Portfolio Management/Portfolio/Portfolio/obj/Debug/net6.0/refint/Portfolio.dll
+/Users/beth/Documents/Astra Technologies/HD Supply/Portfolio Management/Portfolio/Portfolio/obj/Debug/net6.0/Portfolio.pdb
+/Users/beth/Documents/Astra Technologies/HD Supply/Portfolio Management/Portfolio/Portfolio/obj/Debug/net6.0/Portfolio.genruntimeconfig.cache
+/Users/beth/Documents/Astra Technologies/HD Supply/Portfolio Management/Portfolio/Portfolio/obj/Debug/net6.0/ref/Portfolio.dll

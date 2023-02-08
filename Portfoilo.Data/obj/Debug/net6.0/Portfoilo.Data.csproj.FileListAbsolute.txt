@@ -1,0 +1,24 @@
+C:/Users/Reventh/source/repos/Portfolio/Portfoilo.Data/bin/Debug/net6.0/Portfoilo.Data.deps.json
+C:/Users/Reventh/source/repos/Portfolio/Portfoilo.Data/bin/Debug/net6.0/Portfoilo.Data.dll
+C:/Users/Reventh/source/repos/Portfolio/Portfoilo.Data/bin/Debug/net6.0/Portfoilo.Data.pdb
+C:/Users/Reventh/source/repos/Portfolio/Portfoilo.Data/obj/Debug/net6.0/Portfoilo.Data.csproj.AssemblyReference.cache
+C:/Users/Reventh/source/repos/Portfolio/Portfoilo.Data/obj/Debug/net6.0/Portfoilo.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Reventh/source/repos/Portfolio/Portfoilo.Data/obj/Debug/net6.0/Portfoilo.Data.AssemblyInfoInputs.cache
+C:/Users/Reventh/source/repos/Portfolio/Portfoilo.Data/obj/Debug/net6.0/Portfoilo.Data.AssemblyInfo.cs
+C:/Users/Reventh/source/repos/Portfolio/Portfoilo.Data/obj/Debug/net6.0/Portfoilo.Data.csproj.CoreCompileInputs.cache
+C:/Users/Reventh/source/repos/Portfolio/Portfoilo.Data/obj/Debug/net6.0/Portfoilo.Data.dll
+C:/Users/Reventh/source/repos/Portfolio/Portfoilo.Data/obj/Debug/net6.0/refint/Portfoilo.Data.dll
+C:/Users/Reventh/source/repos/Portfolio/Portfoilo.Data/obj/Debug/net6.0/Portfoilo.Data.pdb
+C:/Users/Reventh/source/repos/Portfolio/Portfoilo.Data/obj/Debug/net6.0/ref/Portfoilo.Data.dll
+/Users/beth/Documents/Astra Technologies/Portfolio/Portfoilo.Data/bin/Debug/net6.0/Portfoilo.Data.deps.json
+/Users/beth/Documents/Astra Technologies/Portfolio/Portfoilo.Data/bin/Debug/net6.0/Portfoilo.Data.dll
+/Users/beth/Documents/Astra Technologies/Portfolio/Portfoilo.Data/bin/Debug/net6.0/Portfoilo.Data.pdb
+/Users/beth/Documents/Astra Technologies/Portfolio/Portfoilo.Data/obj/Debug/net6.0/Portfoilo.Data.csproj.AssemblyReference.cache
+/Users/beth/Documents/Astra Technologies/Portfolio/Portfoilo.Data/obj/Debug/net6.0/Portfoilo.Data.GeneratedMSBuildEditorConfig.editorconfig
+/Users/beth/Documents/Astra Technologies/Portfolio/Portfoilo.Data/obj/Debug/net6.0/Portfoilo.Data.AssemblyInfoInputs.cache
+/Users/beth/Documents/Astra Technologies/Portfolio/Portfoilo.Data/obj/Debug/net6.0/Portfoilo.Data.AssemblyInfo.cs
+/Users/beth/Documents/Astra Technologies/Portfolio/Portfoilo.Data/obj/Debug/net6.0/Portfoilo.Data.csproj.CoreCompileInputs.cache
+/Users/beth/Documents/Astra Technologies/Portfolio/Portfoilo.Data/obj/Debug/net6.0/Portfoilo.Data.dll
+/Users/beth/Documents/Astra Technologies/Portfolio/Portfoilo.Data/obj/Debug/net6.0/refint/Portfoilo.Data.dll
+/Users/beth/Documents/Astra Technologies/Portfolio/Portfoilo.Data/obj/Debug/net6.0/Portfoilo.Data.pdb
+/Users/beth/Documents/Astra Technologies/Portfolio/Portfoilo.Data/obj/Debug/net6.0/ref/Portfoilo.Data.dll
